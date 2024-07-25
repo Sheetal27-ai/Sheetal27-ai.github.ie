@@ -17,7 +17,8 @@ QUALIFICATION:
 I got 97.6% in my 12th boards and I got 12th rank in my district.
 
 Contact Details:
-E-mail ID: sheetalpaul057@gmail.com
+
+E-mail ID: sheetalpaul57@gmail.com
 
 
 EXCEL CERTIFICATE
@@ -29,9 +30,9 @@ INDUCTION PROGRAM ACTIVITIES FOR BATCH 2024
 
 ___________________________________
 |  Date  |  Resource Person  |   
-__________
+____________________________________
 Lessons  |
-
+__________
 
 
 
