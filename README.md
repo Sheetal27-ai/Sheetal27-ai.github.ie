@@ -29,10 +29,8 @@ space for excel certificate
 INDUCTION PROGRAM ACTIVITIES FOR BATCH 2024
 
 ___________________________________
-|  Date  |  Resource Person  |   
+| Date | Resource Person | Lessons |
 ____________________________________
-Lessons  |
-__________
 
 
 
