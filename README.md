@@ -18,7 +18,7 @@ I have recently completed my course on MS-Excel. I learned a lot in the process.
 
 ### 🔗 EXCEL CERTIFICATE
 
-![image](./Sheetal.pdf)
+![image](./sheetal-cert.png)
 
 ## Induction Activities Report
 
