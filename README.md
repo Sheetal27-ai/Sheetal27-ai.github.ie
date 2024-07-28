@@ -1,20 +1,20 @@
-# Activity Report of Student Induction Program (Batch 2024)
+# Activity Report of the Student Induction Program (Batch 2024)
 
 ### SELF INTRODUCTION :
 
-College Roll NO. : 2415265
-Name : Sheetal
-Course : B.Tech.
-Branch : CSE
-Section : E
+- **College Roll No.:** 2415265
+- **Name:** Sheetal
+- **Course:** B.Tech.
+- **Branch:** Computer Science and Engineering (CSE)
+- **Section:** E
 
 ### QUALIFICATION :
 
-I have done my 12th from **Shaheed-E-Azam Sukhdev Thapar Girls Govt. sen. sec. school, Ludhiana**. I got 97.6% in my 12th board exam and ranked 12th in Punjab.
+I completed my 12th grade at **Shaheed-E-Azam Sukhdev Thapar Girls Government Senior Secondary School, Ludhiana**. I achieved 97.6% in my 12th board exams and ranked 12th in Punjab.
 
 ## 🛠 Skills
 
-I have recently completed my course on MS-Excel. I learned a lot in the process.
+I recently completed a course on MS-Excel, where I learned various advanced features and data analysis techniques.
 
 ### 🔗 EXCEL CERTIFICATE
 
@@ -53,4 +53,4 @@ I have recently completed my course on MS-Excel. I learned a lot in the process.
 
 ## My Experience
 
-My experice of induction program was very amazing and full of new learing and life lessons. I got to know a lot about various amazing personalities studied in this college. It has given me a great joy and confidence. Now I am all ready to embark on this new journey of my life and for all the challanges on the way. Thank you so much for organising this induction program. I am really greatfull to all the amazing professors and seniors involved in it.
+The induction program was an enriching experience filled with new learning and life lessons. It gave me an opportunity to interact with inspiring personalities and gain insights into college life. I feel more confident and excited to embark on this new journey. I am grateful to all the professors and seniors who organized this program and made it memorable.
